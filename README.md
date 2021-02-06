@@ -48,19 +48,21 @@
     <th>Message</th>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://twitter.com/urlichsanais/status/1349358736092094467">Anaïs Urlichs</a></td>
+    <td>[Anaïs Urlichs](https://twitter.com/urlichsanais/status/1349358736092094467)</td>
     <td>Eddie is probably the most genuine and kind person I know in tech 🥰 providing opportunities and consistently cheering without expecting anything in return! He just recommended me for a podcast 😱</td>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://twitter.com/yalematta/status/1304541107330658313">Layale</a></td>
+    <td>[Layale](https://twitter.com/yalematta/status/1304541107330658313)</td>
     <td>Following @eddiejaoude videos helped me a lot. You'll learn by practicing during his livestreams. Check his YouTube channel!</td>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://twitter.com/__nawalhmw/status/1304572901140635648">Nawal Alhamwi</a></td>
+    <td>[Nawal Alhamwi](https://twitter.com/__nawalhmw/status/1304572901140635648)</td>
     <td>YES, CAN'T AGREE MORE!! 💯 His videos (both the content && the way he delivers information) made me love Github more!🤩 Thanks @eddiejaoude 🌟</td>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://twitter.com/allanregush/status/1304484456221167617">Allan Regush</a></td>
+    <td>[Allan Regush](https://twitter.com/allanregush/status/1304484456221167617)
+    [![https://twitter.com/urlichsanais/status/1349358736092094467](http://i.imgur.com/tXSoThF.png)](https://twitter.com/urlichsanais/status/1349358736092094467)    </td>
+    
     <td>Working with @eddiejaoude and his open source community has been a positive experience. If you have been wanting to contribute to open source but don't know where to start. Come join the community.</td>
   </tr>
 </table>
@@ -69,9 +71,12 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#830](https://github.com/EddieHubCommunity/support/issues/830) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. ❗️ Closed issue [#52](https://github.com/eddiejaoude/eddiejaoude/issues/52) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
-3. 🗣 Commented on [#52](https://github.com/eddiejaoude/eddiejaoude/issues/52) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
-4. 🗣 Commented on [#52](https://github.com/eddiejaoude/eddiejaoude/issues/52) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
-5. 🗣 Commented on [#131](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/131) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+1. 🗣 Commented on [#131](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/131) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+2. ❗️ Opened issue [#146](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/146) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+3. 🎉 Merged PR [#66](https://github.com/EddieHubCommunity/gh-action-community/pull/66) in [EddieHubCommunity/gh-action-community](https://github.com/EddieHubCommunity/gh-action-community)
+4. ❗️ Closed issue [#65](https://github.com/EddieHubCommunity/gh-action-community/issues/65) in [EddieHubCommunity/gh-action-community](https://github.com/EddieHubCommunity/gh-action-community)
+5. 🗣 Commented on [#14](https://github.com/EddieHubCommunity/transcriptions/issues/14) in [EddieHubCommunity/transcriptions](https://github.com/EddieHubCommunity/transcriptions)
 <!--END_SECTION:activity-->
+
+
+[![https://twitter.com/urlichsanais/status/1349358736092094467](http://i.imgur.com/tXSoThF.png)](https://twitter.com/urlichsanais/status/1349358736092094467)
